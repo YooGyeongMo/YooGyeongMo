@@ -26,14 +26,15 @@ struct GyeongMoYoo: Developer {
     ]
     
     var techStack = TechStack(
-        strongLanguages: ["Kotlin", "Python (알고리즘)", "JavaScript"],
-        knowledgeable: ["C++", "C#", "Java"],
-        android: ["Jetpack Compose", "Navigation", "Coroutine", "Retrofit", "Room", "DataBinding", "DataStore", "RxJava", "ViewModel"],
-        frontend: ["HTML", "CSS", "React", "Node.js"],
-        apis: ["Kakao SDK", "Google Auth", "Naver Login", "Google Maps", "Geocode", "Places", "서울시 버스 API", "공공 약 API"],
-        design: ["Figma", "Photoshop", "Blender"],
-        collaboration: ["Git", "GitHub", "Jira"]
-    )
+    mainStacks: ["Android (Jetpack Compose, Coroutine, Clean Architecture)", "iOS (Swift, UIKit, SwiftUI)"],
+    experience: [
+        "Languages": ["Kotlin", "Python", "JavaScript", "C++", "C#", "Java"],
+        "Frontend": ["HTML", "CSS", "React", "Node.js"],
+        "APIs": ["Kakao SDK", "Google Auth", "Naver Login", "Google Maps", "Geocode", "Places", "서울시 버스 API", "공공 약 API"],
+        "Design": ["Figma", "Photoshop", "Blender"],
+        "Collaboration": ["Git", "GitHub", "Jira"]
+    ]
+  )
 
     func introduce() {
       
