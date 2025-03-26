@@ -27,6 +27,20 @@
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 
+### 💼 Featured Projects
+
+- 🔥 **Collab**  
+  안드로이드 앱 전체 설계 및 구현, 지학인재원장상 수상  
+  [GitHub Link](https://github.com/YooGyeongMo/Collab) or [Demo](https://your-demo-link.com)
+
+- 🌍 **STARTMATCH**  
+  스타트업 매칭 플랫폼, 대경권 해커톤 수상작  
+  [프로젝트 소개 노션](https://your-notion-link.com)
+
+- 💊 **MediEye**  
+  사진 기반 약물 정보 조회, React Native 앱  
+  공공 API 활용 + 이미지 분석 기능 포함
+
 ```swift
 import UIKit
 import SwiftUI
