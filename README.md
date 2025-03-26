@@ -49,6 +49,7 @@ Understanding the user’s need (stimulus), channeling it through logical reason
 - **PyModi IoT**  
   Team Lead – Designed Smart IoT modules and hardware section control  
   🥇 1st Place (Gold Award) in AI Convergence Innovation University Competition
+  👉 Built a miniature smart city under the theme of 'Village of IoT', demonstrating a fully connected ecosystem powered by AI technologies
 
 - **STARTMATCH**  
   Team Lead - Android development, project planning and design  
