@@ -59,8 +59,12 @@ Understanding the user’s need (stimulus), channeling it through logical reason
 - **MyChatBot**  
   Team Lead – Python development, project planning and design  
   🥉 Honorable Mention at 2023 ICT Coding Contest (Korea Information and Communication Ethics Society)  
-  👉 Developed a desktop chatbot using ChatGPT and Python  
+  👉 Developed a desktop chatbot using ChatGPT and Python
 
+- **Safty Paris**  
+  Team Lead – Built the entire front-end with React and integrated Firebase for deployment  
+  🚨 A web service for travelers to safely navigate Paris, focusing on safety zone visualization and user alerts  
+  ✈️ Inspired by Korea's random stabbing incidents, the service was deployed during the Olympic season to promote public safety
 
 ---
 
