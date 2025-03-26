@@ -41,6 +41,14 @@
   사진 기반 약물 정보 조회, React Native 앱  
   공공 API 활용 + 이미지 분석 기능 포함
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YooGyeongMo&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=radical" />
+</p>
+
 ```swift
 import UIKit
 import SwiftUI
