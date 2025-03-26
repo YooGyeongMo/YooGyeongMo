@@ -11,6 +11,7 @@ import SwiftUI
 struct GyeongMoYoo: Developer {
     let englishName = "Demian"
     let koreanName = "GyeongMo YOO"
+    var cuurentWorkingPlace = "Apple Developer Academy @ POSTECH 4th"
     var currentDeepDive = ["Swift", "UIKit", "SwiftUI"]
 
     var projects = [
