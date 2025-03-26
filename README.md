@@ -57,7 +57,7 @@ Understanding the user’s need (stimulus), channeling it through logical reason
 
 - **MyChatBot**  
   Team Lead – Python development, project planning and design
-  🥉 Honorable Mention at 2023 ICT Coding Contest (Korea Information and Communication Ethics Society)
+  🥉 Honorable Mention at 2023 ICT Coding Contest (Korea Information and Communication Ethics Society) 
   👉 Developed a desktop chatbot using ChatGPT and Python  
 
 
