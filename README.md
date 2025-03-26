@@ -1,10 +1,10 @@
-<h1 align="center">
-  <span style="font-weight: bold; font-size: 28px;">Support Your Life</span><br/>
-  <span style="font-style: italic; font-size: 22px;">By My Creation</span>
-</h1>
+<!-- 🔥 애니메이션 배너 (색상 커스터마이징) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=Support%20Your%20Life%20By%20My%20Creation&fontSize=45&fontAlign=50&fontAlignY=40&desc=Crafting%20Focus%20With%20Code&descSize=20&descAlign=50&descAlignY=65"/>
+</p>
 
-<h3 align="center">🇰🇷안녕? 🇩🇪 Hallo! 🇷🇺 Привет!</h2>
-<h2 align="center">Hi, I'm Demian 🧑‍💻</h3>
+<h3 align="center">🇰🇷 안녕? &nbsp; 🇩🇪 Hallo! &nbsp; 🇷🇺 Привет!</h3>
+<h2 align="center">Hi, I'm Demian 🧑‍💻</h2>
 
 ```swift
 import UIKit
@@ -49,3 +49,9 @@ struct GyeongMoYoo: Developer {
   📝 <a href="https://medium.com/@ykm7003">Tech Blog on Medium</a> <br>
   📸 <a href="https://www.instagram.com/yoo_the_creator">Tech Instagram: @yoo_the_creator</a>
 </p>
+
+
+
+
+
+
