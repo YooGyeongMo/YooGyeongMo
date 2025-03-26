@@ -1,9 +1,25 @@
 <!-- 💫 About Me -->
-Hi there, I'm [GyeongMo Yoo](https://bubble-dinghy-f0e.notion.site/Demian-Yoo-d6f30acfe881471890c6cbd06ccbd84c?pvs=4) 👋
-I am currently studying at **POSTECH** and part of the **Apple Developer Academy @ POSTECH (Cohort 4)**. I focus on **mobile development** — particularly Android and iOS — and enjoy creating experiences that help people focus better and live more meaningfully.
+### Hi there, I'm [GyeongMo Yoo](https://bubble-dinghy-f0e.notion.site/Demian-Yoo-d6f30acfe881471890c6cbd06ccbd84c?pvs=4) 👋
 
-I’m also passionate about writing, collaboration, and sharing knowledge on productivity, technology, and app design.
+<!-- 💫 About Me -->
 
+I am currently studying at **POSTECH** and part of the **Apple Developer Academy @ POSTECH (Cohort 4)**. I focus on **mobile development**, creating experiences that help people focus better and live more meaningfully.
+
+Previously, I studied acting, with a special focus on **human-centered drama therapy**. Later, I pursued **Computer Engineering** at **Keimyung University in Daegu**, blending creativity with technology. [Check out my university](https://www.kmu.ac.kr/uni/main/main.jsp).
+
+I’m also passionate about reflection writing, collaboration, and sharing knowledge on productivity, technology, and app design. When it comes to coding style, I enjoy what I call **Realism Coding** — a philosophy that draws from my background in acting, aiming to translate real human needs into intuitive and effective code.
+
+---
+
+### 🎭 What is Realism Coding?
+
+In acting theory, **realism** means the actor receives a stimulus, processes it through instinctive impulse, and expresses it with behavior that feels natural and real.
+
+I believe **development is no different.**
+
+Understanding the user’s need (stimulus), channeling it through logical reasoning (impulse), and producing intuitive, effective code (action).
+
+👉 That’s the very approach I call **Realism Coding**, my own philosophy as a developer. 🙈
 ---
 
 ### 🔎 My Interests
