@@ -42,7 +42,7 @@ Understanding the user’s need (stimulus), channeling it through logical reason
 ### 🏆 Awards & Projects
 
 - **Collab**  
-  Team Lead – Android development, project planning, and design  
+  Team Lead – Android development, project planning and design  
   🏅 Awarded in Keimyung University Capstone Design & ICT Coding Contest (Excellence Award)  
   👉 A career-matching app aimed at solving youth employment challenges in South Korea
 
@@ -51,12 +51,15 @@ Understanding the user’s need (stimulus), channeling it through logical reason
   🥇 1st Place (Gold Award) in AI Convergence Innovation University Competition
 
 - **STARTMATCH**  
-  Team Lead – Connected startups with junior developers through a matching platform  
+  Team Lead - Android development, project planning and design
   🏆 Winner of the 2024 Daegyeong Hackathon (Dean’s Award)
+  👉 Connected startups with junior developers through a matching platform
 
 - **MyChatBot**  
-  Team Lead – Developed a desktop chatbot using ChatGPT and Python  
+  Team Lead – Python development, project planning and design
   🥉 Honorable Mention at 2023 ICT Coding Contest (Korea Information and Communication Ethics Society)
+  👉 Developed a desktop chatbot using ChatGPT and Python  
+
 
 ---
 
