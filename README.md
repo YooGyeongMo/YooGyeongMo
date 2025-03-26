@@ -11,7 +11,7 @@
   <!-- 📍 Location -->
 📍 POSTECH, South Korea 🇰🇷 <br>
 🕒 Current Local Time: <img src="https://img.shields.io/badge/KST-UTC%2B9-blue?style=flat-square" /> <br>
-🍎 Apple Developer Academy | Cohort 4 <br>
+🍎 Apple Developer Academy @ POSTECH | Cohort 4 <br>
 
 ✉️ <a href="mailto:demianyoo7003@gmail.com">contact</a> <br>
 📝 <a href="https://medium.com/@ykm7003">Tech Blog</a> <br>
@@ -26,7 +26,7 @@ import SwiftUI
 struct GyeongMoYoo: Developer {
     let englishName = "Demian"
     let koreanName = "GyeongMo YOO"
-    var cuurentWorkingPlace = "Apple Developer Academy @ POSTECH 4th"
+    var cuurentWorkingPlace = "Apple Developer Academy @ POSTECH Corhort 4"
     var currentDeepDive = ["Swift", "UIKit", "SwiftUI"]
 
     var projects = [
@@ -54,15 +54,7 @@ struct GyeongMoYoo: Developer {
     }
 }
 ```
-<h2 align="center">📫 Let’s Connect</h2>
 
-<p align="center">
-  📍 POSTECH, South Korea 🇰🇷 <br>
-  🍎 Apple Developer Academy | Cohort 4 <br>
-  ✉️ <a href="mailto:demianyoo7003@gmail.com">demianyoo7003@gmail.com</a> <br>
-  📝 <a href="https://medium.com/@ykm7003">Tech Blog on Medium</a> <br>
-  📸 <a href="https://www.instagram.com/yoo_the_creator">Tech Instagram: @yoo_the_creator</a>
-</p>
 
 
 
