@@ -6,6 +6,24 @@
 <h3 align="center">🇰🇷 안녕? &nbsp; 🇩🇪 Hallo! &nbsp; 🇷🇺 Привет!</h3>
 <h2 align="center">Hi, I'm Demian 🧑‍💻</h2>
 
+<p align="center">
+
+  <!-- 📍 Location -->
+  📍 POSTECH, South Korea 🇰🇷 &nbsp;
+
+  <!-- ⏰ Local Time (이미지로 표현 or 수동 입력) -->
+  🕒 Current Local Time: <img src="https://img.shields.io/badge/KST-UTC%2B9-blue?style=flat-square" />
+
+  <br/><br/>
+
+  <!-- 📫 Contact & Socials -->
+  ✉️ <a href="mailto:demianyoo7003@gmail.com">Email</a> &nbsp;|&nbsp;
+  📝 <a href="https://medium.com/@ykm7003">Medium</a> &nbsp;|&nbsp;
+  📸 <a href="https://www.instagram.com/yoo_the_creator">Instagram</a> &nbsp;|&nbsp;
+  💼 <a href="https://github.com/YooGyeongMo">GitHub</a>
+
+</p>
+
 ```swift
 import UIKit
 import SwiftUI
