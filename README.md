@@ -1,5 +1,5 @@
 <!-- 💫 About Me -->
-
+Hi there, I'm [GyeongMo Yoo](https://bubble-dinghy-f0e.notion.site/Demian-Yoo-d6f30acfe881471890c6cbd06ccbd84c?pvs=4) 👋
 I am currently studying at **POSTECH** and part of the **Apple Developer Academy @ POSTECH (Cohort 4)**. I focus on **mobile development** — particularly Android and iOS — and enjoy creating experiences that help people focus better and live more meaningfully.
 
 I’m also passionate about writing, collaboration, and sharing knowledge on productivity, technology, and app design.
@@ -38,6 +38,9 @@ I’m also passionate about writing, collaboration, and sharing knowledge on pro
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF4081?style=for-the-badge&logo=architecture&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00C853?style=for-the-badge&logo=buildkite&logoColor=white)
+![TCA (The Composable Architecture)](https://img.shields.io/badge/TCA-795548?style=for-the-badge&logo=swift&logoColor=white)
+
 
 ### 🌐 Web & Tools
 
