@@ -19,6 +19,14 @@
 
 </p>
 
+### 🛠 Main Tech Stack
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
+
 ```swift
 import UIKit
 import SwiftUI
