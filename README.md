@@ -1,7 +1,7 @@
 <h1 align="center">안녕?,Hi I'm Demian 👋</h1>
 
 <p align="center">
-  <img src="./my_profile.png" width="600" alt="Mo's Profile Image" />
+  <img src="./my_profile.png" width="100%" alt="Mo's Profile Image" />
 </p>
 
 ```swift
