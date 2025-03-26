@@ -13,9 +13,9 @@
 🕒 Current Local Time: <img src="https://img.shields.io/badge/KST-UTC%2B9-blue?style=flat-square" /> <br>
 🍎 Apple Developer Academy | Cohort 4 <br>
 
-✉️ <a href="mailto:demianyoo7003@gmail.com">demianyoo7003@gmail.com</a> <br>
-📝 <a href="https://medium.com/@ykm7003">Tech Blog on Medium</a> <br>
-📸 <a href="https://www.instagram.com/yoo_the_creator">Tech Instagram: @yoo_the_creator</a>
+✉️ <a href="mailto:demianyoo7003@gmail.com">contact</a> <br>
+📝 <a href="https://medium.com/@ykm7003">Tech Blog</a> <br>
+📸 <a href="https://www.instagram.com/yoo_the_creator">Tech Instagram</a>
 
 </p>
 
