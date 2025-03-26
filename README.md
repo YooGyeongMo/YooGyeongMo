@@ -38,52 +38,19 @@
   [프로젝트 소개 노션](https://your-notion-link.com)
 
 - 💊 **MediEye**  
+  멋쟁이 사자처럼 11기 해커톤 참여작
   사진 기반 약물 정보 조회, React Native 앱  
   공공 API 활용 + 이미지 분석 기능 포함
+  
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YooGyeongMo&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=radical" />
 </p>
 
-```swift
-import UIKit
-import SwiftUI
 
-struct GyeongMoYoo: Developer {
-    let englishName = "Demian"
-    let koreanName = "GyeongMo YOO"
-    var cuurentWorkingPlace = "Apple Developer Academy @ POSTECH Corhort 4"
-    var currentDeepDive = ["Swift", "UIKit", "SwiftUI"]
-
-    var projects = [
-        "🏆 Collab [계명대학교 지학인재원장상, 2024 한국 정보 통신 윤리학회 ICT 코딩 부문 우수상] - 팀장, 전체 앱 기획, 디자인, Android 앱 개발 담당",
-        "🥇 PyModi IoT [AI혁신공유대학 금상] - 팀장, Smart of IoT 모듈 설계 및 섹션별 하드웨어 제어 개발",
-        "🎖️ STARTMATCH [2024 대경권 해커톤 지학인재원장상] - 팀장, 초보 개발자와 스타트업 연결 플랫폼 기획 및 Android 앱 개발",
-        "📱 MediEye [멋쟁이 사자처럼 공동 해커톤] - 팀장, 사진 기반 약물 인식, 공공 API 연동, React Native 앱 개발",
-        "🧠 MyChatBot [ 2023 한국 정보 통신 윤리학회 ICT 코딩 부문 장려상 ] - 팀장, ChatGPT 기반 Python 데스크탑 챗봇",
-        "🗺️ Safty Paris - 팀장, React 프론트 전체, Firebase 연동 및 배포"
-    ]
-    
-    var techStack = TechStack(
-    mainStacks: ["Android (Jetpack Compose, Coroutine, Clean Architecture)", "iOS (Swift, UIKit, SwiftUI)"],
-    experience: [
-        "Languages": ["Kotlin", "Python", "JavaScript", "C++", "C#", "Java"],
-        "Frontend": ["HTML", "CSS", "React", "Node.js"],
-        "APIs": ["Kakao SDK", "Google Auth", "Naver Login", "Google Maps", "Geocode", "Places", "서울시 버스 API", "공공 약 API"],
-        "Design": ["Figma", "Photoshop", "Blender"],
-        "Collaboration": ["Git", "GitHub", "Jira"]
-    ]
-  )
-
-    func introduce() {
-      
-    }
-}
-```
 
 
 
