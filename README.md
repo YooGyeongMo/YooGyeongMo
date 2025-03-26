@@ -1,4 +1,6 @@
-<h1 align="center">Support Your Life By My Creation</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&height=50&lines=Support+Your+Life+By+My+Creation" alt="Typing SVG" />
+</h1>
 
 <h2 align="center">안녕? | Hallo! | Привет! 👋</h2>
 <h3 align="center">Hi, I'm Demian 🧑‍💻</h3>
