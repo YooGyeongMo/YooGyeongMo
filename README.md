@@ -14,7 +14,7 @@
   <!-- ⏰ Local Time (이미지로 표현 or 수동 입력) -->
   🕒 Current Local Time: <img src="https://img.shields.io/badge/KST-UTC%2B9-blue?style=flat-square" />
 
-  <br/><br/>
+  <br/>
 
   <!-- 📫 Contact & Socials -->
   ✉️ <a href="mailto:demianyoo7003@gmail.com">Email</a> &nbsp;|&nbsp;
