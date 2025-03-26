@@ -20,7 +20,6 @@
   ✉️ <a href="mailto:demianyoo7003@gmail.com">Email</a> &nbsp;|&nbsp;
   📝 <a href="https://medium.com/@ykm7003">Medium</a> &nbsp;|&nbsp;
   📸 <a href="https://www.instagram.com/yoo_the_creator">Instagram</a> &nbsp;|&nbsp;
-  💼 <a href="https://github.com/YooGyeongMo">GitHub</a>
 
 </p>
 
