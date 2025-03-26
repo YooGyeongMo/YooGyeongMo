@@ -10,6 +10,7 @@ import SwiftUI
 
 struct GyeongMoYoo: Developer {
     let englishName = "Demian"
+    let koreanName = "GyeongMo YOO"
     var currentDeepDive = ["Swift", "UIKit", "SwiftUI"]
 
     var projects = [
