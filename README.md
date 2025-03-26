@@ -97,6 +97,8 @@ Understanding the user’s need (stimulus), channeling it through logical reason
 <p align="center">
   <a href="mailto:demianyoo7003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@ykm7003"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/g-m-yoo-b4098b316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
   <a href="https://www.instagram.com/yoo_the_creator"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
