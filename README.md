@@ -43,7 +43,7 @@ Understanding the user’s need (stimulus), channeling it through logical reason
 
 - **Collab**  
   Team Lead – Android development, project planning and design  
-  🏅 Awarded in Keimyung University Capstone Design & ICT Coding Contest (Excellence Award)  
+  🏅 Awarded in Keimyung University Capstone Design & Excellence Awarded in ICT Coding Contest ( Korea Information and Communication Ethics Society, 2024)  
   👉 A career-matching app aimed at solving youth employment challenges in South Korea
 
 - **PyModi IoT**  
