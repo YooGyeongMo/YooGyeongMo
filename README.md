@@ -1,7 +1,7 @@
 <h1 align="center">안녕?,Hi I'm Demian 👋</h1>
 
 <p align="center">
-  <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc6de43bc-b4d1-4a49-ac0c-82e51fa03b62%2F97e2a51a-4b81-431e-8c11-6f7c603f2bc8%2FBeige_and_Orange_Modern_Portfolio_Presentation-3.png?table=block&id=d6f30acf-e881-4718-90c6-cbd06ccbd84c&spaceId=c6de43bc-b4d1-4a49-ac0c-82e51fa03b62&width=2000&userId=131d5807-3e1a-4954-9b32-37c4939e6a02&cache=v2" width="600" alt="GyeongMo Profile Image"/>
+  <img src="./사용중_백그라운드.png" width="600" alt="Mo's Profile Image" />
 </p>
 
 ```swift
