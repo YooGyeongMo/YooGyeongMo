@@ -44,6 +44,7 @@ struct GyeongMoYoo: Developer {
 
 <p align="center">
   📍 POSTECH, South Korea 🇰🇷 <br>
+  🍎 Apple Developer Academy | Cohort 4 <br>
   ✉️ <a href="mailto:demianyoo7003@gmail.com">demianyoo7003@gmail.com</a> <br>
   📝 <a href="https://medium.com/@ykm7003">Tech Blog on Medium</a> <br>
   📸 <a href="https://www.instagram.com/yoo_the_creator">Tech Instagram: @yoo_the_creator</a>
