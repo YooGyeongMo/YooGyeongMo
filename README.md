@@ -27,7 +27,7 @@
 
 ## <b>🏆 Awards & Honors</b>
 
-🍎 Apple Developer Academy @ POSTECH — Spotlight Selected (Cohort 4 Final Project)<br/>
+ Apple Developer Academy @ POSTECH — Spotlight Selected (Cohort 4 Final Project)<br/>
 🏆 Junction Asia 2025 — Upstage Track Winner & Final Winner<br/>
 🌍 Junction 2025 World Hackathon — Korea Representative (World)<br/>
 🥇 AI Convergence Innovation Univ. Competition (Gold Award) — PyModi IoT (Village of IoT)<br/>
@@ -103,7 +103,11 @@
 
 </div>
 
----
+<div align ="center">
+
+## Github stats
+
+</div>
 
 <div align="center">
 
@@ -111,6 +115,13 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
 
   <br/>
+
+
+<div align ="center">
+
+## Algorithm
+
+</div>
 
   <a href="https://solved.ac/ykm7003">
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=ykm7003" />
