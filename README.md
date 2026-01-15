@@ -1,7 +1,9 @@
 <div align="center">
 
-# GyeongMo Yoo (Demian)  
+# GyeongMo Yoo (Demian)
 ### Apple Platform / Mobile SWE 
+
+<img src="Pic.png" width="50%" >
 
 <a href="mailto:demianyoo7003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
@@ -15,10 +17,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/><br></br>
 <!-- Junction Achievements -->
-<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/><br></br>
+<img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/><br></br>
 
 </div>
 
@@ -27,7 +29,7 @@
 
 ## <b>🏆 Awards & Honors</b>
 
- Apple Developer Academy @ POSTECH — Spotlight Selected (Cohort 4 Final Project)<br/>
+🍎 Apple Developer Academy @ POSTECH — Spotlight Selected (Cohort 4 Final Project)<br/>
 🏆 Junction Asia 2025 — Upstage Track Winner & Final Winner<br/>
 🌍 Junction 2025 World Hackathon — Korea Representative (World)<br/>
 🥇 AI Convergence Innovation Univ. Competition (Gold Award) — PyModi IoT (Village of IoT)<br/>
