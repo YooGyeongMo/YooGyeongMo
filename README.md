@@ -112,30 +112,17 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=dark&hide_border=true" alt="YooGyeongMo's GitHub stats" />
+  <br/>
 
-<br/>
+  <a href="https://solved.ac/ykm7003">
+  <img src="https://mazassumnida.wtf/api/generate_badge?boj=ykm7003" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <br/><br/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YooGyeongMo&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-## 🏆 Solved.ac (Baekjoon)
-
-<a href="https://solved.ac/ykm7003">
-  <img src="http://mazandi.herokuapp.com/api?handle=ykm7003&theme=dark" alt="Solved.ac Profile" />
-</a>
-
-<br/><br/>
-
-## 📈 Activity Overview
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YooGyeongMo&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YooGyeongMo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
