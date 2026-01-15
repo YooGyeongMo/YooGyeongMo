@@ -13,16 +13,11 @@
   <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-
-<br/>
-
 <!-- Junction Achievements -->
-<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Junction%20Asia%202025-Final%20Winner-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/>
 
 </div>
@@ -57,7 +52,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
 
 
-<br/><br/>
+<br/>
 
 ### iOS / Apple
 <img src="https://img.shields.io/badge/UIKit-111111?style=for-the-badge&logo=apple&logoColor=white"/>
@@ -65,7 +60,7 @@
 <img src="https://img.shields.io/badge/Combine-111111?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Concurrency-111111?style=for-the-badge&logo=apple&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### Android
 <img src="https://img.shields.io/badge/Jetpack%20Compose-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
@@ -120,9 +115,5 @@
   <a href="https://solved.ac/ykm7003">
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=ykm7003" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YooGyeongMo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
