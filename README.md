@@ -1,114 +1,141 @@
-<!-- 💫 About Me -->
-### Hi there, I'm [GyeongMo Yoo](https://bubble-dinghy-f0e.notion.site/Demian-Yoo-d6f30acfe881471890c6cbd06ccbd84c?pvs=4) 👋
+<div align="center">
 
-<!-- 💫 About Me -->
+# GyeongMo Yoo (Demian)  
+### Apple Platform / Mobile SWE 
 
-I am currently studying at **POSTECH** and part of the **Apple Developer Academy @ POSTECH (Cohort 4)**. I focus on **mobile development**, creating experiences that help people focus better and live more meaningfully.
+<a href="mailto:demianyoo7003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://www.linkedin.com/in/g-m-yoo-b4098b316/">
+  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://medium.com/@ykm7003">
+  <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-Previously, I studied acting, with a special focus on **human-centered drama therapy**. Later, I pursued **Computer Engineering** at **Keimyung University in Daegu**, blending creativity with technology. [Check out my university](https://www.kmu.ac.kr/uni/main/main.jsp).
+<br/>
 
-I’m also passionate about reflection writing, collaboration, and sharing knowledge on productivity, technology, and app design. When it comes to coding style, I enjoy what I call **Realism Coding** — a philosophy that draws from my background in acting, aiming to translate real human needs into intuitive and effective code.
+<img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
+
+<br/>
+
+<!-- Junction Achievements -->
+<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junction%20Asia%202025-Final%20Winner-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/>
+
+</div>
+
+
+<div align="center">
+
+## <b>🏆 Awards & Honors</b>
+
+🍎 Apple Developer Academy @ POSTECH — Spotlight Selected (Cohort 4 Final Project)<br/>
+🏆 Junction Asia 2025 — Upstage Track Winner & Final Winner<br/>
+🌍 Junction 2025 World Hackathon — Korea Representative (World)<br/>
+🥇 AI Convergence Innovation Univ. Competition (Gold Award) — PyModi IoT (Village of IoT)<br/>
+🏅 Keimyung University Capstone Design (Excellence Award) - Collab<br/>
+🏆 2024 Daegyeong Hackathon (Dean’s Award) — STARTMATCH<br/>
+🏅 2024 ICT Coding Contest (Excellence Award) — Collab<br/>
+🥉 2023 ICT Coding Contest (Honorable Mention) — MyChatBot<br/>
+</div>
+
+<div align="center">
+
+## Tech Stack
+
+</div>
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/Swift-333333?style=for-the-badge&logo=swift&logoColor=F05138"/> 
+<img src="https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+
+
+<br/><br/>
+
+### iOS / Apple
+<img src="https://img.shields.io/badge/UIKit-111111?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Combine-111111?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Concurrency-111111?style=for-the-badge&logo=apple&logoColor=white"/>
+
+<br/><br/>
+
+### Android
+<img src="https://img.shields.io/badge/Jetpack%20Compose-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML%20-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutine-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flow-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
+
+</div>
+
+
+<div align="center">
+
+## Activities
+
+</div>
+
+<div align="center">
+
+### Lectures
+💁‍♂️ LetSwift 2025 — Home, Home, SweetHome (2025.11) <br/>
+💁‍♂️ LikeLion Company For Univ — Lesson related AI Generation (2025.11) <br/>
+💁‍♂️ POSTECH@ChangeUP Ground — Sharing My Experience Of World Hackathon (2025.11)
+
+</div>
+
+<div align="center">
+
+<table>
+  <tr valign="top">
+    <td width="50%" align="left">
+      <b>🎖 Ambassador</b><br/><br/>
+      • Samsung Software Academy For Youth (SSAFY) 13th Ambassador(2024.10 ~ 2024.11)<br/>
+    </td>
+    <td width="50%" align="left">
+      <b>🤝 Volunteering</b><br/><br/>
+      • SW Code Club — Volunteer Instructor Daegu Samdeok Elementary School (2024.10.16 ~ 2024.11)<br/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 🎭 What is Realism Coding?
-
-In acting theory, **realism** means the actor receives a stimulus, processes it through instinctive impulse, and expresses it with behavior that feels natural and real.
-
-I believe **development is no different.**
-
-Understanding the user’s need (stimulus), channeling it through logical reasoning (impulse), and producing intuitive, effective code (action).
-
-👉 That’s the very approach I call **Realism Coding**, my own philosophy as a developer. 🙈
----
-
-### 🔎 My Interests
-- Mobile App Development (Android, iOS)
-- UI/UX & Interaction Design
-- Focus & Productivity Tools
-- System Design for Mobile
-- Human-centered Tech
-
----
-
-### ✌️ I’m open to:
-- iOS / Android freelance or collaboration projects
-- UX-focused prototyping and app building
-- Hackathon collaborations and open-source teams
-- Sharing about my experience in developer education or speaking engagements
-
----
-
-### 🏆 Awards & Projects
-
-- **Collab**  
-  Team Lead – Android development, project planning and design  
-  🏅 Awarded in Keimyung University Capstone Design & Excellence Awarded in ICT Coding Contest ( Korea Information and Communication Ethics Society, 2024)  
-  👉 A career-matching app aimed at solving youth employment challenges in South Korea
-
-- **PyModi IoT**  
-  Team Lead – Designed Smart IoT modules and hardware section control  
-  🥇 1st Place (Gold Award) in AI Convergence Innovation University Competition  
-  👉 Built a miniature smart city under the theme of 'Village of IoT', demonstrating a fully connected ecosystem powered by AI technologies
-
-- **STARTMATCH**  
-  Team Lead - Android development, project planning and design  
-  🏆 Winner of the 2024 Daegyeong Hackathon (Dean’s Award)  
-  👉 Connected startups with junior developers through a matching platform
-
-- **MyChatBot**  
-  Team Lead – Python development, project planning and design  
-  🥉 Honorable Mention at 2023 ICT Coding Contest (Korea Information and Communication Ethics Society)  
-  👉 Developed a desktop chatbot using ChatGPT and Python
-
-- **Safty Paris**  
-  Team Lead – Built the entire front-end with React and integrated Firebase for deployment  
-  🚨 A web service for travelers to safely navigate Paris, focusing on safety zone visualization and user alerts  
-  ✈️ Inspired by Korea's random stabbing incidents, the service was deployed during the Olympic season to promote public safety
-
----
-
-## 🛠 Skills
-
-### 🔄 Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📱 Mobile
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF4081?style=for-the-badge&logo=architecture&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00C853?style=for-the-badge&logo=buildkite&logoColor=white)
-![TCA (The Composable Architecture)](https://img.shields.io/badge/TCA-795548?style=for-the-badge&logo=swift&logoColor=white)
-
-
-### 🌐 Web & Tools
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 👥 Connect with me
-
-<p align="center">
-  <a href="mailto:demianyoo7003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@ykm7003"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/g-m-yoo-b4098b316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yoo_the_creator"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
+<div align="center">
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YooGyeongMo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img src="https://github-readme-stats.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=dark&hide_border=true" alt="YooGyeongMo's GitHub stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YooGyeongMo&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+## 🏆 Solved.ac (Baekjoon)
+
+<a href="https://solved.ac/ykm7003">
+  <img src="http://mazandi.herokuapp.com/api?handle=ykm7003&theme=dark" alt="Solved.ac Profile" />
+</a>
+
+<br/><br/>
+
+## 📈 Activity Overview
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YooGyeongMo&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&hide_border=true" />
+
+</div>
