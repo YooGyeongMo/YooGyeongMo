@@ -19,10 +19,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/><br>
 <!-- Junction Achievements -->
-<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/><br>
 
 </div>
 
