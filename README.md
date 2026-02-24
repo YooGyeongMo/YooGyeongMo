@@ -116,7 +116,6 @@
 <div align="center">
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YooGyeongMo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
 
   <br/>
 
