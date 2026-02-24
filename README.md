@@ -1,7 +1,7 @@
 <div align="center">
 
 # GyeongMo Yoo (Demian)
-### Apple Platform / Mobile SWE 
+### iOS Developer / Mobile SWE 
 
 <div align="center">
   <img src="pic.png" width="50%" />
