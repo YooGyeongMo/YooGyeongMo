@@ -24,23 +24,23 @@
 ## <b>🏆 Awards & Honors</b>
 
 <!-- Junction Achievements -->
-<img src="https://img.shields.io/badge/🍎%20Apple%20Developer%20Academy%20@POSTECH-Spotlight%20Selected%20(Cohort%204%20Final%20Project)-000000?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏆%20Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🌍%20Junction%202025%20World%20Hackathon-Korea%20Representative%20(World)-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🥇%20AI%20Convergence%20Innovation%20Univ.%20Competition-Gold%20Award%20·%20PyModi%20IoT-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏅%20Keimyung%20Univ.%20Capstone%20Design-Excellence%20Award%20·%20CollaB-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏆%202024%20Daegyeong%20Hackathon-Dean's%20Award%20·%20STARTMATCH-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏅%202024%20ICT%20Coding%20Contest-Excellence%20Award%20·%20CollaB-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🥉%202023%20ICT%20Coding%20Contest-Honorable%20Mention%20·%20MyChatBot-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍎%20Apple%20Developer%20Academy%20@POSTECH-Spotlight%20Selected%20(Cohort%204%20Final%20Project)-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏆%20Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🌍%20Junction%202025%20World%20Hackathon-Korea%20Representative%20(World)-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🥇%20AI%20Convergence%20Innovation%20Univ.%20Competition-Gold%20Award%20·%20PyModi%20IoT-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏅%20Keimyung%20Univ.%20Capstone%20Design-Excellence%20Award%20·%20CollaB-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏆%202024%20Daegyeong%20Hackathon-Dean's%20Award%20·%20STARTMATCH-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏅%202024%20ICT%20Coding%20Contest-Excellence%20Award%20·%20CollaB-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🥉%202023%20ICT%20Coding%20Contest-Honorable%20Mention%20·%20MyChatBot-11111?style=for-the-badge"/>
 </div>
 
 <div align = "center">
 
 ## <b>🎤 Speaker & Lecture </b>
 
-<img src="https://img.shields.io/badge/💁‍♂️%20LetSwift%202025-Home,%20Home,%20SweetHome-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/💁‍♂️%20LikeLion%20Company%20For%20Univ-Lesson%20related%20AI%20Generation-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/💁‍♂️%20POSTECH@ChangeUP%20Ground-Sharing%20World%20Hackathon%20Experience-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💁‍♂️%20LetSwift%202025-Home,%20Home,%20SweetHome-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/💁‍♂️%20LikeLion%20Company%20For%20Univ-Lesson%20related%20AI%20Generation-11111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/💁‍♂️%20POSTECH@ChangeUP%20Ground-Sharing%20World%20Hackathon%20Experience-11111?style=for-the-badge"/>
 <br/>
 
 </div>
@@ -64,18 +64,18 @@
 <br/>
 
 ### iOS / Apple
-<img src="https://img.shields.io/badge/UIKit-111111?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Combine-111111?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Concurrency-111111?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-333333?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Combine-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Concurrency-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 <br/>
 
 ### Android
-<img src="https://img.shields.io/badge/Jetpack%20Compose-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML%20-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coroutine-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flow-1F6FEB?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-333333?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML%20-333333?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutine-333333?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flow-333333?style=for-the-badge&logo=android&logoColor=white"/>
 
 </div>
 
