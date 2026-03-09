@@ -3,10 +3,6 @@
 # GyeongMo Yoo (Demian)
 ### iOS Developer / Mobile SWE 
 
-<div align="center">
-  <img src="pic.png" width="50%" />
-</div>
-
 <a href="mailto:demianyoo7003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -17,12 +13,8 @@
   <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Apple%20Developer%20Academy%20@POSTECH-Cohort%204-000000?style=for-the-badge&logo=apple&logoColor=white"/><br>
-<!-- Junction Achievements -->
-<img src="https://img.shields.io/badge/Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/Junction%202025-Korea%20Representative%20(World)-111111?style=for-the-badge"/><br>
 
 </div>
 
@@ -31,19 +23,32 @@
 
 ## <b>🏆 Awards & Honors</b>
 
-🍎 Apple Developer Academy @ POSTECH — Spotlight Selected (Cohort 4 Final Project)<br/>
-🏆 Junction Asia 2025 — Upstage Track Winner & Final Winner<br/>
-🌍 Junction 2025 World Hackathon — Korea Representative (World)<br/>
-🥇 AI Convergence Innovation Univ. Competition (Gold Award) — PyModi IoT (Village of IoT)<br/>
-🏅 Keimyung University Capstone Design (Excellence Award) - Collab<br/>
-🏆 2024 Daegyeong Hackathon (Dean’s Award) — STARTMATCH<br/>
-🏅 2024 ICT Coding Contest (Excellence Award) — Collab<br/>
-🥉 2023 ICT Coding Contest (Honorable Mention) — MyChatBot<br/>
+<!-- Junction Achievements -->
+<img src="https://img.shields.io/badge/🍎%20Apple%20Developer%20Academy%20@POSTECH-Spotlight%20Selected%20(Cohort%204%20Final%20Project)-000000?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏆%20Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🌍%20Junction%202025%20World%20Hackathon-Korea%20Representative%20(World)-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🥇%20AI%20Convergence%20Innovation%20Univ.%20Competition-Gold%20Award%20·%20PyModi%20IoT-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏅%20Keimyung%20Univ.%20Capstone%20Design-Excellence%20Award%20·%20CollaB-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏆%202024%20Daegyeong%20Hackathon-Dean's%20Award%20·%20STARTMATCH-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🏅%202024%20ICT%20Coding%20Contest-Excellence%20Award%20·%20CollaB-111111?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/🥉%202023%20ICT%20Coding%20Contest-Honorable%20Mention%20·%20MyChatBot-111111?style=for-the-badge"/>
 </div>
+
+<div align = "center">
+
+## <b>🎤 Speaker & Lecture </b>
+
+<img src="https://img.shields.io/badge/💁‍♂️%20LetSwift%202025-Home,%20Home,%20SweetHome-0D1117?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/💁‍♂️%20LikeLion%20Company%20For%20Univ-Lesson%20related%20AI%20Generation-0D1117?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/💁‍♂️%20POSTECH@ChangeUP%20Ground-Sharing%20World%20Hackathon%20Experience-0D1117?style=for-the-badge"/>
+<br/>
+
+</div>
+
 
 <div align="center">
 
-## Tech Stack
+## 💻 Tech Stack
 
 </div>
 
@@ -77,57 +82,18 @@
 
 <div align="center">
 
-## Activities
+## 💁‍♂️ Activities
 
 </div>
 
 <div align="center">
 
-### Lectures
-💁‍♂️ LetSwift 2025 — Home, Home, SweetHome (2025.11) <br/>
-💁‍♂️ LikeLion Company For Univ — Lesson related AI Generation (2025.11) <br/>
-💁‍♂️ POSTECH@ChangeUP Ground — Sharing My Experience Of World Hackathon (2025.11)
+### 🎖 Ambassador
+<img src="https://img.shields.io/badge/🎖%20SSAFY-13th%20Ambassador%20(2024.10%20~%202024.11)-1a3a5c?style=for-the-badge"/>
+<br/>
 
-</div>
+### 🤝 Volunteering
+<img src="https://img.shields.io/badge/🤝%20SW%20Code%20Club-Volunteer%20Instructor%20·%20Daegu%20Samdeok%20Elementary%20(2024.10%20~%202024.11)-2d4a22?style=for-the-badge"/>
 
-<div align="center">
-
-<table>
-  <tr valign="top">
-    <td width="50%" align="left">
-      <b>🎖 Ambassador</b><br/><br/>
-      • Samsung Software Academy For Youth (SSAFY) 13th Ambassador(2024.10 ~ 2024.11)<br/>
-    </td>
-    <td width="50%" align="left">
-      <b>🤝 Volunteering</b><br/><br/>
-      • SW Code Club — Volunteer Instructor Daegu Samdeok Elementary School (2024.10.16 ~ 2024.11)<br/>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <div align ="center">
-
-## Github stats
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YooGyeongMo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-
-  <br/>
-
-
-<!-- <div align ="center">
-
-## Algorithm
-
-</div>
-
-  <a href="https://solved.ac/ykm7003">
-  <img src="https://mazassumnida.wtf/api/generate_badge?boj=ykm7003" />
-  </a>
-
-</div> -->
