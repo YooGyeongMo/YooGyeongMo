@@ -68,26 +68,6 @@
 
 <div align = "center">
 
-## Ambassador
-
-</div>
-
-* 2024.10 ~ 2024.12 | **Samsung Software Academy For Youth (SSAFY)** 13th Ambassador
-
-</br>
-
-<div align = "center">
-
-## Volunteering
-
-</div>
-
-* 2024.10 ~ 2024.11 | Coding Instructor, **SW Code Club** — Daegu Samdeok Elementary School 🇰🇷
-
-</br>
-
-<div align = "center">
-
 ## Education
 
 </div>
