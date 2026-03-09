@@ -1,89 +1,105 @@
 <div align="center">
 
 # GyeongMo Yoo (Demian)
-### iOS Developer / Mobile SWE 
 
-<br/>
+###  iOS Developer / Mobile SWE
 
+<a href="mailto:demianyoo7003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://www.linkedin.com/in/g-m-yoo-b4098b316/">
+  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://medium.com/@ykm7003">
+  <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
 </div>
 
-
-<div align="center">
-
-## <b>🏆 Awards & Honors</b>
-
-<!-- Junction Achievements -->
-<img src="https://img.shields.io/badge/🍎%20Apple%20Developer%20Academy%20@POSTECH-Spotlight%20Selected%20(Cohort%204%20Final%20Project)-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏆%20Junction%20Asia%202025-Upstage%20Track%20Winner%20%26%20Final%20Winner-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🌍%20Junction%202025%20World%20Hackathon-Korea%20Representative%20(World)-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🥇%20AI%20Convergence%20Innovation%20Univ.%20Competition-Gold%20Award%20·%20PyModi%20IoT-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏅%20Keimyung%20Univ.%20Capstone%20Design-Excellence%20Award%20·%20CollaB-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏆%202024%20Daegyeong%20Hackathon-Dean's%20Award%20·%20STARTMATCH-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🏅%202024%20ICT%20Coding%20Contest-Excellence%20Award%20·%20CollaB-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/🥉%202023%20ICT%20Coding%20Contest-Honorable%20Mention%20·%20MyChatBot-0D1117?style=for-the-badge"/>
-</div>
+---
 
 <div align = "center">
 
-## <b>🎤 Speaker & Lecture </b>
-
-<img src="https://img.shields.io/badge/💁‍♂️%20LetSwift%202025-Home,%20Home,%20SweetHome-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/💁‍♂️%20LikeLion%20Company%20For%20Univ-Lesson%20related%20AI%20Generation-0D1117?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/💁‍♂️%20POSTECH@ChangeUP%20Ground-Sharing%20World%20Hackathon%20Experience-0D1117?style=for-the-badge"/>
-<br/>
+## Speaker & Lecture
 
 </div>
 
+* 2025.11 | Session Speaker, **LetSwift 2025** — [Home, Home, SweetHome 🇰🇷](https://letswift.kr/2025/#speakers)
+* 2025.11 | Lecturer, **LikeLion Company For Univ** — [Lesson related AI Generation 🇰🇷](https://www.instagram.com/p/DQUAUm7Egvv/)
+* 2025.11 | Speaker, **POSTECH@ChangeUP Ground** — Sharing My Experience Of World Hackathon 🇰🇷
 
-<div align="center">
+<div align = "center">
 
-## 💻 Tech Stack
-
-</div>
-
-<div align="center">
-
-### Languages
-<img src="https://img.shields.io/badge/Swift-333333?style=for-the-badge&logo=swift&logoColor=F05138"/> 
-<img src="https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
-
-
-<br/>
-
-### iOS / Apple
-<img src="https://img.shields.io/badge/UIKit-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-333333?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Combine-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Concurrency-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-
-<br/>
-
-### Android
-<img src="https://img.shields.io/badge/Jetpack%20Compose-333333?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML%20-333333?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coroutine-333333?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flow-333333?style=for-the-badge&logo=android&logoColor=white"/>
+## Awards & Honors
 
 </div>
 
+* 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
 
-<div align="center">
+* 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
 
-## 💁‍♂️ Activities
+* 2025.08 | 🏆 **Junction Asia 2025 Hackathon** — Track Winner & Final Winner
+
+* 2024.11 | 🏅 **Creative Convergence Talent Sharing Festival** — Excellence Award, ICT Solution (Coding), Korea ICT Ethics Society
+
+* 2024.08 | 🏆 **KNU-KMU Joint Hackathon** — Popularity Award · STARTMATCH
+
+* 2024.06 | 🏅 **Keimyung Univ. Capstone Design** — Encouragement Award · CollaB
+
+* 2023.11 | 🥉 **4th Industrial Revolution Talent Sharing Festival** — Encouragement Award, ICT Solution (Coding), Korea ICT Ethics Society
+
+* 2022.07 | 🥇 **AI Innovation Sharing University Competition** — Gold(1st) Award · PyModi IoT
+
+
+<div align = "center">
+
+## Tech Stack
 
 </div>
 
-<div align="center">
+**Languages**
 
-### 🎖 Ambassador
-<img src="https://img.shields.io/badge/🎖%20SSAFY-13th%20Ambassador%20(2024.10%20~%202024.11)-1a3a5c?style=for-the-badge"/>
-<br/>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### 🤝 Volunteering
-<img src="https://img.shields.io/badge/🤝%20SW%20Code%20Club-Volunteer%20Instructor%20·%20Daegu%20Samdeok%20Elementary%20(2024.10%20~%202024.11)-2d4a22?style=for-the-badge"/>
+**iOS / Apple**
 
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-06B6D4?style=flat&logo=swift&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-5856D6?style=flat&logo=apple&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-34C759?style=flat&logo=apple&logoColor=white)
 
-<div align ="center">
+**Android**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![XML](https://img.shields.io/badge/XML-8BC34A?style=flat&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-BA68C8?style=flat&logo=kotlin&logoColor=white)
+
+<div align = "center">
+
+## Ambassador
+
+</div>
+
+* 2024.10 ~ 2024.12 | **Samsung Software Academy For Youth (SSAFY)** 13th Ambassador
+
+<div align = "center">
+
+## Volunteering
+
+<div>
+
+* 2024.10 ~ 2024.11 | Coding Instructor, **SW Code Club** — Daegu Samdeok Elementary School 🇰🇷
+
+<div align = "center">
+
+## Education
+
+</div>
+
+### **B.S., Computer Science, Keimyung University**
+
+**Apple Developer Academy @ POSTECH** (2025.03 ~ 2025.12)
