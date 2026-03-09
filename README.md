@@ -18,6 +18,8 @@
 * 2025.11 | Lecturer, **LikeLion Company For Univ** — [Lesson related AI Generation 🇰🇷](https://www.instagram.com/p/DQUAUm7Egvv/)
 * 2025.11 | Speaker, **POSTECH@ChangeUP Ground** — Sharing My Experience Of World Hackathon 🇰🇷
 
+</br>
+
 <div align = "center">
 
 ## Awards & Honors
@@ -25,21 +27,15 @@
 </div>
 
 * 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
-
 * 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
-
 * 2025.08 | 🏆 **Junction Asia 2025 Hackathon** — Track Winner & Final Winner
-
 * 2024.11 | 🏅 **Creative Convergence Talent Sharing Festival** — Excellence Award, ICT Solution (Coding), Korea ICT Ethics Society
-
 * 2024.08 | 🏆 **KNU-KMU Joint Hackathon** — Popularity Award · STARTMATCH
-
 * 2024.06 | 🏅 **Keimyung Univ. Capstone Design** — Encouragement Award · CollaB
-
 * 2023.11 | 🥉 **4th Industrial Revolution Talent Sharing Festival** — Encouragement Award, ICT Solution (Coding), Korea ICT Ethics Society
-
 * 2022.07 | 🥇 **AI Innovation Sharing University Competition** — Gold(1st) Award · PyModi IoT
 
+</br>
 
 <div align = "center">
 
@@ -68,6 +64,8 @@
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-BA68C8?style=flat&logo=kotlin&logoColor=white)
 
+</br>
+
 <div align = "center">
 
 ## Ambassador
@@ -76,6 +74,8 @@
 
 * 2024.10 ~ 2024.12 | **Samsung Software Academy For Youth (SSAFY)** 13th Ambassador
 
+</br>
+
 <div align = "center">
 
 ## Volunteering
@@ -83,6 +83,8 @@
 <div>
 
 * 2024.10 ~ 2024.11 | Coding Instructor, **SW Code Club** — Daegu Samdeok Elementary School 🇰🇷
+
+</br>
 
 <div align = "center">
 
