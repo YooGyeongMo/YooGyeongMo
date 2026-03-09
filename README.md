@@ -4,16 +4,6 @@
 
 ###  iOS Developer / Mobile SWE
 
-<a href="mailto:demianyoo7003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://www.linkedin.com/in/g-m-yoo-b4098b316/">
-  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://medium.com/@ykm7003">
-  <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
 </div>
 
 ---
