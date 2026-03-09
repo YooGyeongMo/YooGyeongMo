@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <div align = "center">
 
 ## Speaker & Lecture
