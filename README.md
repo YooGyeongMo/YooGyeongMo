@@ -80,7 +80,7 @@
 
 ## Volunteering
 
-<div>
+</div>
 
 * 2024.10 ~ 2024.11 | Coding Instructor, **SW Code Club** — Daegu Samdeok Elementary School 🇰🇷
 
