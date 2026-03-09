@@ -4,6 +4,8 @@
 
 ###  iOS Developer / Mobile SWE
 
+</br>
+
 </div>
 
 <div align = "center">
