@@ -75,3 +75,5 @@
 ### **B.S., Computer Science, Keimyung University**
 
 **Apple Developer Academy @ POSTECH** (2025.03 ~ 2025.12)
+
+**LikeLion Company For Univ (2023.02 ~ 2023.12)**
