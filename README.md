@@ -14,15 +14,15 @@
 
 </div>
 
-* 2026.04 | **swiftlang/swift-docc** — [#1523-Merged](https://github.com/swiftlang/swift-docc/pull/1523)
-* 2026.03 | **swiftlang/sourcekit-lsp** — [#2644-Merged](https://github.com/swiftlang/sourcekit-lsp/pull/2644)
-* 2026.02 | **swiftlang/vscode-swift** — [#2236-Merged](https://github.com/swiftlang/vscode-swift/pull/2236)
+* 2026.05 | **swiftlang/swift-docc** — [#1523-Merged](https://github.com/swiftlang/swift-docc/pull/1523)
+* 2026.05 | **swiftlang/sourcekit-lsp** — [#2644-Merged](https://github.com/swiftlang/sourcekit-lsp/pull/2644)
+* 2026.05 | **swiftlang/vscode-swift** — [#2236-Merged](https://github.com/swiftlang/vscode-swift/pull/2236)
 
 **Issues · Proposals**
-* 2026.02 | **swiftlang/vscode-swift** — [#2231-Assigned](https://github.com/swiftlang/vscode-swift/issues/2231)
+* 2026.05 | **swiftlang/vscode-swift** — [#2231-Assigned](https://github.com/swiftlang/vscode-swift/issues/2231)
 
 **Forum · Proposals**
-* 2026.05 | **Swift Forums** — [GSoC 2026 Proposal: Build a CLI for swift-testing](https://forums.swift.org/t/gsoc-2026-globally-scoped-traits-for-swift-testing-design-questions/85541)
+* 2026.03 | **Swift Forums** — [GSoC 2026 Proposal: Build a CLI for swift-testing](https://forums.swift.org/t/gsoc-2026-globally-scoped-traits-for-swift-testing-design-questions/85541)
 
 </br>
 
