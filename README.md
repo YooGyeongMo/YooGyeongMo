@@ -10,6 +10,23 @@
 
 <div align = "center">
 
+## Awards & Honors
+
+</div>
+
+* 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
+* 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
+* 2025.08 | 🏆 **Junction Asia 2025 Hackathon** — Track Winner & Final Winner
+* 2024.11 | 🏅 **Creative Convergence Talent Sharing Festival** — Excellence Award, ICT Solution (Coding), Korea ICT Ethics Society
+* 2024.08 | 🏆 **KNU-KMU Joint Hackathon** — Popularity Award · STARTMATCH
+* 2024.06 | 🏅 **Keimyung Univ. Capstone Design** — Encouragement Award · CollaB
+* 2023.11 | 🥉 **4th Industrial Revolution Talent Sharing Festival** — Encouragement Award, ICT Solution (Coding), Korea ICT Ethics Society
+* 2022.07 | 🥇 **AI Innovation Sharing University Competition** — Gold(1st) Award · PyModi IoT
+
+</br>
+
+<div align = "center">
+
 ## Open Source Contribute
 
 </div>
@@ -26,22 +43,6 @@
 
 </br>
 
-<div align = "center">
-
-## Awards & Honors
-
-</div>
-
-* 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
-* 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
-* 2025.08 | 🏆 **Junction Asia 2025 Hackathon** — Track Winner & Final Winner
-* 2024.11 | 🏅 **Creative Convergence Talent Sharing Festival** — Excellence Award, ICT Solution (Coding), Korea ICT Ethics Society
-* 2024.08 | 🏆 **KNU-KMU Joint Hackathon** — Popularity Award · STARTMATCH
-* 2024.06 | 🏅 **Keimyung Univ. Capstone Design** — Encouragement Award · CollaB
-* 2023.11 | 🥉 **4th Industrial Revolution Talent Sharing Festival** — Encouragement Award, ICT Solution (Coding), Korea ICT Ethics Society
-* 2022.07 | 🥇 **AI Innovation Sharing University Competition** — Gold(1st) Award · PyModi IoT
-
-</br>
 
 <div align = "center">
 
