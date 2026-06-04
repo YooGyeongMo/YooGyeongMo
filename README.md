@@ -1,8 +1,6 @@
 <div align="center">
 
-# GyeongMo Yoo (Demian)
-
-###  iOS Developer / Mobile SWE
+#  iOS Developer / Mobile SWE
 
 </br>
 
