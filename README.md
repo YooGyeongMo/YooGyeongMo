@@ -29,6 +29,7 @@
 
 </div>
 
+**Pull Request**
 * 2026.06 | **swiftlang/swift-docc** — [#1548-Merged](https://github.com/swiftlang/swift-docc/pull/1548)
 * 2026.05 | **swiftlang/swift-docc** — [#1523-Merged](https://github.com/swiftlang/swift-docc/pull/1523)
 * 2026.05 | **swiftlang/sourcekit-lsp** — [#2644-Merged](https://github.com/swiftlang/sourcekit-lsp/pull/2644)
