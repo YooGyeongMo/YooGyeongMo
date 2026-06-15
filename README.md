@@ -36,7 +36,7 @@
 * 2026.05 | **swiftlang/vscode-swift** — [#2236-Merged](https://github.com/swiftlang/vscode-swift/pull/2236)
 
 **Issues · Proposals**
-* 2026.06 | **swiftlang/swift-docc** — [#1536-Assigned & Resolved](https://github.com/swiftlang/swift-docc/issues/1536)
+* 2026.06 | **swiftlang/swift-docc** — [#1536-Assigned](https://github.com/swiftlang/swift-docc/issues/1536)
 * 2026.05 | **swiftlang/vscode-swift** — [#2231-New Feature Proposal & Assigned](https://github.com/swiftlang/vscode-swift/issues/2231)
 
 **Forum · Proposals**
