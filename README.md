@@ -28,13 +28,14 @@
 ## Open Source Contribute
 
 </div>
-
+* 2026.06 | **swiftlang/swift-docc** — [#1548-Merged](https://github.com/swiftlang/swift-docc/pull/1548)
 * 2026.05 | **swiftlang/swift-docc** — [#1523-Merged](https://github.com/swiftlang/swift-docc/pull/1523)
 * 2026.05 | **swiftlang/sourcekit-lsp** — [#2644-Merged](https://github.com/swiftlang/sourcekit-lsp/pull/2644)
 * 2026.05 | **swiftlang/vscode-swift** — [#2236-Merged](https://github.com/swiftlang/vscode-swift/pull/2236)
 
 **Issues · Proposals**
-* 2026.05 | **swiftlang/vscode-swift** — [#2231-Assigned](https://github.com/swiftlang/vscode-swift/issues/2231)
+* 2026.06 | **swiftlang/swift-docc** — [#1536-Assigned & Resolved](https://github.com/swiftlang/swift-docc/issues/1536)
+* 2026.05 | **swiftlang/vscode-swift** — [#2231-New Feature Proposal & Assigned](https://github.com/swiftlang/vscode-swift/issues/2231)
 
 **Forum · Proposals**
 * 2026.03 | **Swift Forums** — [GSoC 2026 Proposal: Build a CLI for swift-testing](https://forums.swift.org/t/gsoc-2026-globally-scoped-traits-for-swift-testing-design-questions/85541)
