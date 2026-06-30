@@ -1,6 +1,6 @@
 <div align="center">
 
-#  iOS Developer / SwiftLang OSS Member
+#  iOS Developer / SwiftLang Member
 
 </br>
 
