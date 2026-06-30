@@ -1,6 +1,6 @@
 <div align="center">
 
-#  iOS Developer / Mobile SWE
+#  iOS Developer / SwiftLang OSS Member
 
 </br>
 
