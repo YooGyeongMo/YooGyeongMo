@@ -11,9 +11,10 @@
 ## Awards & Honors
 
 </div>
+
 * 2026.06 | 🧑‍🏫 **Selected as a Mentor for the Swift Mentorship Program 2026**
 * 2026.06 | 👨‍💻 **Accepted as an official SwiftLang Member in the Swift open source community**
-* 2026.04 | 👮‍♂️ **Selected for the Pohang Regional Settlement Program - Secured KRW 20M in investment for SUSA24(Showcase Spotlight Project)**
+* 2026.04 | 👮‍♂️ **Selected for the Pohang Regional Settlement Program - Secured KRW 20M in investment for Showcase Spotlight Project**
 * 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
 * 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
 * 2025.08 | 🏆 **Junction Asia 2025 Hackathon** — Upstage AI Track Winner & Final Winner
