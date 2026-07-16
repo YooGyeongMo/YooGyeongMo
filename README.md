@@ -13,7 +13,7 @@
 </div>
 
 * 2026.06 | 🧑‍🏫 **SwiftLang Community — Mentor for the Swift Mentorship Program 2026**
-* 2026.06 | 👨‍💻 **SwiftLang OSS — Accepted as an official SwiftLang Member**
+* 2026.06 | 👨‍💻 **SwiftLang OSS — Become an official SwiftLang Member**
 * 2026.04 | 👮‍♂️ **Pohang Regional Settlement Program — Secured KRW 20M in investment for Showcase Spotlight Project**
 * 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
 * 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
