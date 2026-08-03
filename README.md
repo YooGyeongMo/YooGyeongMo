@@ -15,7 +15,7 @@
 * 2026.06 | 🧑‍🏫 **SwiftLang Community — Mentor for the Swift Mentorship Program 2026**
 * 2026.06 | 👨‍💻 **SwiftLang OSS — Become an official SwiftLang Member**
 * 2026.04 | 👮‍♂️ **Pohang Regional Settlement Program — Secured KRW 20M in investment for Project SUSA24**
-* 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Showcase Spotlight Team
+* 2025.11 | 🍎 **Apple Developer Academy @ POSTECH** — Selected Apple Showcase Spotlight Team
 * 2025.11 | 🌍 **Junction 2025 World Hackathon** — Korea Representative (Helsinki) 🇫🇮
 * 2025.08 | 🏆 **Junction Asia 2025 Hackathon** — Upstage AI Track Winner & Final Winner
 * 2024.11 | 🏅 **Creative Convergence Talent Sharing Festival** — Excellence Award, ICT Solution (Coding), Korea ICT Ethics Society
